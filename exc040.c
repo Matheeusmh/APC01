@@ -4,6 +4,7 @@ inteiros e imprima o maior valor do vetor. */
 
 int main(void)
 {
+    // Variáveis:
     int A[30], maior = 0;
 
     // Entrada de valores de cada elemento do vetor e comparação:

@@ -10,7 +10,7 @@ int main() {
     for (i = 0; i < 3; i++) {//Laço de repetição para definir a linha da matriz;
         for (j = 0; j < 4; j++) {//Laço de repetição para definir a coluna da matriz; 
             printf("Digite um valor para a posicao [%d][%d]: ", i, j);
-            scanf("%d", &matriz[i][j]);//Entrada de dados na posição em que se encontra a matriz;
+            scanf("%d", &matriz[i][j]);//Entrada de dados na posição em que se encontra a matriz.
         }
     }
 

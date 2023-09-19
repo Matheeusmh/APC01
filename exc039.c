@@ -5,6 +5,7 @@ Converta para metros cúbicos, se necessário. */
 
 int main() 
 {
+    // Variáveis:
     float base_base, altura_base, area_base, altura_piramide, volume_piramide;
     int op;
 

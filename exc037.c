@@ -5,6 +5,7 @@ Converta para metros cúbicos, se necessário. */
 
 int main(void)
 {
+    // Variáveis:
     float volume, comprimento, largura, altura; 
     int op;
 
